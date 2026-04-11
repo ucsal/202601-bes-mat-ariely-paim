@@ -1,4 +1,4 @@
-# Atividade
+# Atividade SOLID
 
 Refatorar o projeto Sistema de Olimpiadas aplicando os princípios SOLID, mantendo o comportamento funcional original do sistema, sem remoção de funcionalidades e sem uso de frameworks externos.
 
@@ -8,7 +8,7 @@ Refatorar o projeto Sistema de Olimpiadas aplicando os princípios SOLID, manten
 
 ---
 
-## Aonde os príncipios SOLID foram aplicados
+## Aonde os príncipios SOLID foram aplicados?
 Os cinco pilares do SOLID foram aplicados da seguinte forma:
 
 1. S – Single Responsibility Principle (SRP):
